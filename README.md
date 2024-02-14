@@ -1,4 +1,4 @@
-<h3 align="left">About me</h3>
+<h2 align="left">About me</h2>
 <h5 align="left">Currently, I'm studying software engineer at Sisiket Rajaphat University. 
   I am interested in technology and business. I wish to be an expert in this field in the future. </h5>
   
