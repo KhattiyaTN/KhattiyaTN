@@ -1,5 +1,7 @@
-<h1 align="center">Hello 👋, I'm Khattiya Thongnak</h1>
-<h5 align="left">Currently, I'm studying software engineer at Sisiket Rajaphat University. I am interested in technology and business. I wish to be an expert in this field in the future. So I worked hard to walk towards my intended goal and don't forget to always remind myself. That you should find time to rest so that your brain can be more efficient. And I believe sometimes I have to take a step back. To be able to jump further than I was standing before.</h5>
+<h1 align="left">About me</h1>
+<h5 align="left">Currently, I'm studying software engineer at Sisiket Rajaphat University. I am interested in technology and business. I wish to be an expert in this field in the future. </h5>
+  
+<h5 align="left">So I worked hard to walk towards my intended goal and don't forget to always remind myself. That you should find time to rest so that your brain can be more efficient. And I believe sometimes I have to take a step back. To be able to jump further than I was standing before.</h5>
 
 - 🌱 I’m currently learning **Golang and Flutter.**
 
