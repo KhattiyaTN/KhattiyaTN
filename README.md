@@ -15,8 +15,6 @@
 </h5>
 
 <!-- STATUS NOW -->
-<br></br>
-
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
@@ -45,9 +43,7 @@
   </a>
 </p>
 
-
-
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://fb.com/khattiya thongnak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khattiya thongnak" height="30" width="40" /></a>
+  <a href="https://fb.com/khattiya thongnak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khattiya thongnak" height="30" width="40" /></a>
 </p>
