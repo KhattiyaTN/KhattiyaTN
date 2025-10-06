@@ -44,14 +44,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/express.svg" alt="express" width="40" height="40" style="background:white; border-radius:5px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/express.svg" alt="express" width="40" height="40"/>
   </a>
 </p>
 
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-  <a href="https://fb.com/khattiya thongnak" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khattiya thongnak" height="30" width="40" />
+  <a href="mailto:khattiyaDCI072@gmail.com" class="flex items-center gap-2 text-gray-700 hover:text-blue-500">
+    <img src="https://img.icons8.com/color/48/gmail--v1.png" alt="Email" width="40" height="40" />
   </a>
 </p>
