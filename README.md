@@ -3,7 +3,7 @@
 <!-- INTRO -->
 <h4 align="start">
   Hello, my name is <b>Khattiya Thongnak</b>.<br>
-  I'm a Software Engineer with a strong interest in both <b>technology and business</b>.<br>
+  I'm a Software Developer with a strong interest in both <b>technology and business</b>.<br>
   I’m passionate about creating meaningful software solutions and continuously improving my technical and problem-solving skills.
 </h4>
 
