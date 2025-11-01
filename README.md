@@ -17,7 +17,7 @@
 <!-- LANGUAGES -->
 <h2 align="left">Programming Languages:</h2>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,css,js,ts" />
+  <img src="https://skillicons.dev/icons?i=c,css,js,ts,go" />
 </p>
 
 <!-- FRONTEND -->
