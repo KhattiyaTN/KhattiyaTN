@@ -49,7 +49,7 @@
 
 <!-- CONNECT -->
 <h2 align="left">Connect with me:</h2>
-<p align="left">
+<p align="right">
   <a href="mailto:khattiyaDCI072@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail--v1.png" alt="Email" width="50" height="50" />
   </a>
