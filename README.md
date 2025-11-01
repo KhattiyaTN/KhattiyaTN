@@ -14,38 +14,16 @@
   And sometimes, taking a step back is just preparation for a stronger leap forward.<br></br>
 </h5>
 
-<!-- FRONTEND TOOLS -->
+<!-- FRONTEND -->
 <h2 align="left">Frontend Tools:</h2>
-<p align="left"> 
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-  <a href="https://nuxt.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-  </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com/docs/5.0/" target="_blank" rel="noreferrer">
-    <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap 5" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,react,nextjs,bootstrap,tailwind" />
 </p>
 
-<!-- BACKEND TOOLS -->
+<!-- BACKEND -->
 <h2 align="left">Backend Tools:</h2>
-<p align="left"> 
-  <a href="https://laravel.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/express.svg" alt="express" width="40" height="40"/>
-  </a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=laravel,express,nodejs,php,mysql" />
 </p>
 
 
