@@ -1,18 +1,18 @@
 <h1 align="start">ABOUT ME</h1>
 
 <!-- INTRO -->
-<h3 align="start">
+<h4 align="start">
   Hello, my name is Khattiya Thongnak.<br>
   I recently graduated with a degree in Software Engineering from Sisaket Rajabhat University.<br>
   I'm passionate about both technology and business, and I'm committed to growing into a skilled and innovative professional in this field.
-</h3>
+</h4>
 
 <!-- MOTIVATION -->
-<h3 align="start">
+<h4 align="start">
   I believe that consistent effort and self-reflection are the keys to long-term success.<br>
   I always remind myself to take breaks when needed — because a well-rested mind works more efficiently.<br>
   Sometimes, taking a step back is just preparation for a stronger leap forward.
-</h3>
+</h4>
 
 <!-- LANGUAGES -->
 ## Programming Languages:
