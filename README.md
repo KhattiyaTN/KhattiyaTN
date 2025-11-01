@@ -2,9 +2,9 @@
 
 <!-- INTRO -->
 <h4 align="start">
-  Hello, my name is Khattiya Thongnak.<br>
-  I recently graduated with a degree in Software Engineering from Sisaket Rajabhat University.<br>
-  I'm passionate about both technology and business, and I'm committed to growing into a skilled and innovative professional in this field.
+  Hello, my name is <b>Khattiya Thongnak</b>.<br>
+  I'm a Software Engineer with a strong interest in both <b>technology and business</b>.<br>
+  I’m passionate about creating meaningful software solutions and continuously improving my technical and problem-solving skills.
 </h4>
 
 <!-- MOTIVATION -->
