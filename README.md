@@ -20,7 +20,9 @@
 [<img src="https://skillicons.dev/icons?i=css" alt="CSS" />](https://developer.mozilla.org/docs/Web/CSS)
 [<img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />](https://developer.mozilla.org/docs/Web/JavaScript)
 [<img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />](https://www.typescriptlang.org/docs/)
-[<img src="https://skillicons.dev/icons?i=go" alt="Go" />](https://go.dev/doc/)
+<!--[<img src="https://skillicons.dev/icons?i=go" alt="Go" />](https://go.dev/doc/)-->
+<!--[<img src="https://skillicons.dev/icons?i=java" alt="Java" />]()-->
+<!--[<img src="https://skillicons.dev/icons?i=c#" alt="C#" />]()-->
 
 ## Frontend Tools:
 [<img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" />](https://vuejs.org/)
@@ -36,6 +38,9 @@
 [<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />](https://nodejs.org/en/docs)
 [<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />](https://dev.mysql.com/doc/)
 [<img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" />](https://www.prisma.io/docs/)
+<!--[<img src="https://skillicons.dev/icons?i=springboot" alt="Spring boot" />]()-->
+<!--[<img src="https://skillicons.dev/icons?i=asp.net" alt="ASP .net" />]()-->
+
 
 ## Development & Deployment Tools:
 [<img src="https://skillicons.dev/icons?i=git" alt="Git" />](https://git-scm.com/doc)
