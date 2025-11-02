@@ -1,7 +1,5 @@
-<h1 align="start">ABOUT ME</h1>
-
-Hi there! 👋 I'm <strong>Khattiya Thongnak</strong>
-=====================================================
+Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Cruise
+================================================================================================================================================
 
 I'm a <strong>Software Developer</strong> passionate about building meaningful software solutions that blend <strong>technology</strong> and <strong>business</strong>.  
 I enjoy improving my <strong>technical</strong> and <strong>problem-solving</strong> skills, believing that growth comes from <strong>consistent effort</strong> and <strong>reflection</strong>.  
