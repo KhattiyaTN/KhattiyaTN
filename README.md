@@ -1,18 +1,19 @@
 <h1 align="start">ABOUT ME</h1>
 
 <!-- INTRO -->
-<h4 align="start">
-  Hello, my name is <b>Khattiya Thongnak</b>.<br>
-  I'm a Software Developer with a strong interest in both <b>technology and business</b>.<br>
-  I’m passionate about creating meaningful software solutions and continuously improving my technical and problem-solving skills.
-</h4>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Khattiya Thongnak
+==========================================================================================================================================
 
-<!-- MOTIVATION -->
-<h4 align="start">
-  I believe that consistent effort and self-reflection are the keys to long-term success.<br>
-  I always remind myself to take breaks when needed — because a well-rested mind works more efficiently.<br>
-  Sometimes, taking a step back is just preparation for a stronger leap forward.
-</h4>
+I'm a Software Developer with a strong interest in both technology and business.
+--------------------------------------------------------------------------------
+
+I’m passionate about creating meaningful software solutions and continuously improving my technical and problem-solving skills.
+
+I believe that consistent effort and self-reflection are the keys to long-term success.
+
+I always remind myself to take breaks when needed — because a well-rested mind works more efficiently.
+
+Sometimes, taking a step back is just preparation for a stronger leap forward.
 
 <!-- LANGUAGES -->
 ## Programming Languages:
