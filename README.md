@@ -34,6 +34,7 @@ Sometimes, stepping back is just preparation for a stronger leap forward.
 [<img src="https://skillicons.dev/icons?i=figma" alt="Figma" />](https://help.figma.com/hc/en-us)
 [<img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" />](https://vercel.com/docs)
 [<img src="https://skillicons.dev/icons?i=docker" alt="Docker" />](https://docs.docker.com/)
+[<img src="https://skillicons.dev/icons?i=linux" alt="Ubuntu" />](https://ubuntu.com/)
 [<img src="https://skillicons.dev/icons?i=bun" alt="Bun" />](https://bun.sh/docs)
 
 ## Connect with me
