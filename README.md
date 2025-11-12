@@ -10,6 +10,7 @@ Sometimes, stepping back is just preparation for a stronger leap forward.
 [<img src="https://skillicons.dev/icons?i=css" alt="CSS" />](https://developer.mozilla.org/docs/Web/CSS)
 [<img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />](https://developer.mozilla.org/docs/Web/JavaScript)
 [<img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />](https://www.typescriptlang.org/docs/)
+[<img src="https://skillicons.dev/icons?i=go" alt="Go" />](https://go.dev/doc/)
 
 ## Frontend Tools
 [<img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" />](https://vuejs.org/)
